@@ -1,0 +1,12 @@
+#package
+/.gradle
+/.idea
+/build
+/gradle
+
+# Package Files #
+settings.gradle
+gradlew
+gradlew.bat
+
+
