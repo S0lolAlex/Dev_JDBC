@@ -1,4 +1,4 @@
-package SqlRequestUsers;
+package sqlRequestUsers;
 
 public class MaxSalaryWorker {
     private String name;

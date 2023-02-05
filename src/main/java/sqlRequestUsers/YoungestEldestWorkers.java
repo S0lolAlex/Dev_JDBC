@@ -1,4 +1,4 @@
-package SqlRequestUsers;
+package sqlRequestUsers;
 
 public class YoungestEldestWorkers {
     private String type;

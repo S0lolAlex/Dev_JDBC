@@ -8,5 +8,7 @@
 settings.gradle
 gradlew
 gradlew.bat
+#db Files
+*.db
 
 

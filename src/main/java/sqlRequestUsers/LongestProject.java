@@ -1,4 +1,4 @@
-package SqlRequestUsers;
+package sqlRequestUsers;
 
 public class LongestProject {
     private String name;

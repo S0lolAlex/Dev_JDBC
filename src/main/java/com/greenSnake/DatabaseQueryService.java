@@ -1,6 +1,6 @@
 package com.greenSnake;
 
-import SqlRequestUsers.*;
+import sqlRequestUsers.*;
 
 import java.sql.*;
 import java.util.*;
